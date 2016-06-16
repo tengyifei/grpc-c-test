@@ -2,26 +2,29 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/main.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test_config.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test_config.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/mock_helloworld.grpc.pb.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/status_public.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/channel.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/unary_blocking_call.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/status.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/init_shutdown.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/init_shutdown.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/status_code_public.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/call_ops.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/unary_blocking_call.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/call_ops.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/grpc_c_public.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/channel_public.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mock_helloworld.grpc.pb.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mock_helloworld.grpc.pb.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/status_code_public.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/channel_public.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/serialization_public.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/message_public.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/init_shutdown.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/call_ops.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/unary_blocking_call.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/message_public.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/init_shutdown.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/unary_blocking_call.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/channel.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/call_ops.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/id_serialization.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/status.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/id_serialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/status_public.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/grpc_c_public.h" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
