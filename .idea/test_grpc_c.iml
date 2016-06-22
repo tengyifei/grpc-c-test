@@ -19,10 +19,11 @@
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/init_shutdown.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/unary_blocking_call.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/completion_queue.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/tag.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/channel.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/init_shutdown.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/impl/context.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/call_ops.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/call_ops.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/impl/client_async_reader.c" isTestSource="false" />
@@ -33,6 +34,7 @@
       <sourceFolder url="file://$MODULE_DIR$/grpc/status_public.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/completion_queue_public.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/message_public.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc/client_async_reader_public.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grpc/context_public.h" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
